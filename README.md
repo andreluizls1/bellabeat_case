@@ -7,4 +7,5 @@ O projeto seguiu as etapas propostas durante curso:
 2. Preparar: começando a trabalhar com os dados;
 3. Processar: limpeza e manipulação dos dados;
 4. Analisar: buscar insights nos dados;
-5. Agir: entregar os insights da análise.
+5. Compartilhar: visualizar as conclusões de forma gráfica;
+6. Agir: entregar os insights da análise.
